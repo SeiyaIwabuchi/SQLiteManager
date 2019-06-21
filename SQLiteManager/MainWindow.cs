@@ -101,3 +101,20 @@ static class MyTextView
         return sb.ToString();
     }
 }
+
+class test
+{
+    private int a;
+    public test(int num)
+    {
+        a = num;
+    }
+    public int getNum()
+    {
+        return this.a;
+    }
+    public void setNum(int num)
+    {
+        this.a = num;
+    }
+}
