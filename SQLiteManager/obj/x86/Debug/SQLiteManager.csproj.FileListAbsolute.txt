@@ -1,0 +1,17 @@
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/SQLiteManager.exe.config
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/SQLiteManager.exe
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/SQLiteManager.pdb
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/EntityFramework.dll
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/EntityFramework.SqlServer.dll
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/System.Data.SQLite.dll
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/System.Data.SQLite.EF6.dll
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/System.Data.SQLite.Linq.dll
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/EntityFramework.xml
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/EntityFramework.SqlServer.xml
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/System.Data.SQLite.xml
+/home/seiya/Projects/SQLiteManager/SQLiteManager/bin/Debug/System.Data.SQLite.dll.config
+/home/seiya/Projects/SQLiteManager/SQLiteManager/obj/x86/Debug/SQLiteManager.csprojAssemblyReference.cache
+/home/seiya/Projects/SQLiteManager/SQLiteManager/obj/x86/Debug/SQLiteManager.csproj.CoreCompileInputs.cache
+/home/seiya/Projects/SQLiteManager/SQLiteManager/obj/x86/Debug/SQLiteManager.csproj.CopyComplete
+/home/seiya/Projects/SQLiteManager/SQLiteManager/obj/x86/Debug/SQLiteManager.exe
+/home/seiya/Projects/SQLiteManager/SQLiteManager/obj/x86/Debug/SQLiteManager.pdb
