@@ -6,6 +6,7 @@ using System.Linq;
 
 public partial class MainWindow : Gtk.Window
 {
+    test t1 = new test(1);
     SQLiteConnectionStringBuilder SQLiteConnectionSb;
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
