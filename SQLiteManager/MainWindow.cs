@@ -6,17 +6,16 @@ using System.Linq;
 using Glade;
 
 public partial class MainWindow : Gtk.Window
-{
-
+{   
     test t1 = new test(1);
     SQLiteConnectionStringBuilder SQLiteConnectionSb;
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
-        Build();
-        GtkWi
+        this.GdkWindow.Background = Gdk.Color.
         SQLiteConnectionSb = new SQLiteConnectionStringBuilder { DataSource = ":memory:" };
         OutputTextView.overriteText(sqlCommonExecuter("select sqlite_version()")+"\n");
         OutputTextView.postscriptText("Hello SQLite!\n");
+        Build();
     }
 
     protected void OnDeleteEvent(object sender, DeleteEventArgs a)
