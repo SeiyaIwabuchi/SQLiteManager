@@ -3,14 +3,17 @@ using Gtk;
 using System.Data.SQLite;
 using System.Text;
 using System.Linq;
+using Glade;
 
 public partial class MainWindow : Gtk.Window
 {
+
     test t1 = new test(1);
     SQLiteConnectionStringBuilder SQLiteConnectionSb;
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
         Build();
+        GtkWi
         SQLiteConnectionSb = new SQLiteConnectionStringBuilder { DataSource = ":memory:" };
         OutputTextView.overriteText(sqlCommonExecuter("select sqlite_version()")+"\n");
         OutputTextView.postscriptText("Hello SQLite!\n");
